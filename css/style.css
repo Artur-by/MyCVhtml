@@ -1,0 +1,77 @@
+.block-up{
+    width:100%;
+    height:410px;
+    position: relative;
+    background: #253848;
+    }
+
+.name{
+    text-align: center;
+    position: absolute;
+    top	: 100px;
+    left: 200px;
+    width: 100%;
+}
+
+a{
+    color: #2c6493;
+}
+.block-left {
+    text-align: center;
+    width:30%;
+    height:800px;
+    background: darkgray;
+    overflow:auto;
+    float:left;
+}
+
+li, h2{
+    text-align: left;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    color: #3e647a;
+}
+
+.block-right{
+    text-align: center;
+    width:70%;
+    height:800px;
+    overflow:auto;
+    background: lightgrey;
+    }
+
+h1 {
+    font-size: 35px;
+    font-family: "Roboto", sans-serif;
+    color: #2c6493; }
+
+
+.skils-left{
+    width: 250px;
+    height: 100px;
+    margin: 0;
+    text-align: center;
+    }
+
+.skils-center{
+    width: 250px;
+    height: 100px;
+    margin: -115px 400px;
+    text-align: center;
+    color: black;
+
+}
+
+.skils-rigth {
+    width: 250px;
+    height: 100px;
+    margin: 0 800px;
+    text-align: center;
+}
+
+.experience{
+    width: 900px;
+    height: 300px;
+    margin: 0 40px ;
+    text-align: center;
+    }
